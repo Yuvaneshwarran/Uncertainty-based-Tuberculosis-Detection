@@ -1,4 +1,4 @@
-streamlit==1.41.1
+streamlit==1.24.1
 tensorflow==2.11.1
 opencv-python==4.8.0.76
 pandas==1.5.3
